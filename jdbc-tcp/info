@@ -1,0 +1,4 @@
+This project shows you how to connect your java program on a client to a java application a remote server that can serve you with database information.
+A java-java communication takes place via TCP Sockets (there are other methods too), and
+A java-database communication takes place via JDBC API.
+So, I have designed this project to give the viewer a gist of both of these.
