@@ -2,3 +2,6 @@ This project shows you how to connect your java program on a client to a java ap
 A java-java communication takes place via TCP Sockets (there are other methods too), and
 A java-database communication takes place via JDBC API.
 So, I have designed this project to give the viewer a gist of both of these.
+The database that I have used contains 5 records, with the "Eid" values 1 to 5.
+So, enter any one from 1 to 5 on client side, and the employee details will be fetched accordingly.
+You can alter the database as per need. Happy Coding!
